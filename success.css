@@ -1,6 +1,9 @@
 a{
     text-decoration: none !important;
 }
+.text-primary{
+    color: #00736C !important;
+}
 .btn-primary{
     background-color: #00736C !important;
 }
@@ -28,9 +31,9 @@ a{
 }
 .success-screen .text-container{
     min-width: 320px;
-    width: 400px;
+    width: 500px;
 }
 .success-screen .img-container{
     min-width: 320px;
-    width: 400px;
+    width: 450px;
 }
